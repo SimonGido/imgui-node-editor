@@ -1,0 +1,5 @@
+﻿  crude_json.cpp
+  imgui_canvas.cpp
+  imgui_node_editor.cpp
+  imgui_node_editor_api.cpp
+  ImGuiNode.vcxproj -> C:\Users\Gido\Projects\XYZEngine\XYZEngine\vendor\imgui-node-editor\bin\Debug-windows-x86_64\ImGuiNode\ImGuiNode.lib
